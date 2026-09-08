@@ -49,7 +49,7 @@ Skill 会把经过校验的 `pet.json` 和 `spritesheet.webp` 安装到 `~/.code
   <tr>
     <td align="center"><img src="docs/media/idle.gif" alt="Zeta idle animation" width="220"><br><strong>待机</strong></td>
     <td align="center"><img src="docs/media/save-as-king.gif" alt="Zeta save as king animation" width="220"><br><strong>Hover · 存为王</strong></td>
-    <td align="center"><img src="docs/media/save-as-doom.gif" alt="Zeta save as doom animation" width="220"><br><strong>拖拽 · 存为亡</strong></td>
+    <td align="center"><img src="docs/media/save-as-doom-v2.gif" alt="Zeta save as doom animation" width="220"><br><strong>拖拽 · 存为亡</strong></td>
   </tr>
 </table>
 
