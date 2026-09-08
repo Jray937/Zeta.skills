@@ -1,0 +1,8 @@
+interface:
+  display_name: "Zeta 摸鱼"
+  short_description: "安装 Zeta 桌宠，陪你短暂放空、喝水和摸鱼"
+  brand_color: "#E99B45"
+  default_prompt: "Use $zeta-moyu to configure Zeta and accompany me while I take a short break."
+
+policy:
+  allow_implicit_invocation: true
